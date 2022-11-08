@@ -1,5 +1,5 @@
-### 为了项目的长远发展，renren-fast-vue已迁移到 【[renren-ui](https://gitee.com/renrenio/renren-ui)】里面，以后会在renren-ui里面进行更新维护，感谢支持！ :smiley: 
-<br> 
+### 为了项目的长远发展，renren-fast-vue已迁移到 【[renren-ui](https://gitee.com/renrenio/renren-ui)】里面，以后会在renren-ui里面进行更新维护，感谢支持！ :smiley:
+<br>
 
 ## renren-fast-vue
 - renren-fast-vue基于vue、element-ui构建开发，实现[renren-fast](https://gitee.com/renrenio/renren-fast)后台管理前端功能，提供一套更优的前端解决方案
